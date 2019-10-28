@@ -1,4 +1,4 @@
-package Solutions_1;
+package Solution_1;
 
 import java.util.Random;
 
