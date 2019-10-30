@@ -1,22 +1,21 @@
 package Farm.Units;
 
-public class Cat extends DomesticAnimal {
+public class Rabbit extends DomesticAnimal {
     private String name;
     private int weight;
     private int speed;
     private int health;
-    private int force;
+    private int resources;
 
-
-    public Cat (String name, int weight, int speed, int health, int force){
+    public Rabbit (String name, int weight, int speed, int health, int resources){
         this.name = name;
         this.weight = weight;
         this.speed = speed;
         this.health = health;
-        this.force = force;
+        this.resources = resources;
     }
 
-    public Cat() {
+    public Rabbit() {
     }
 
     public String getName() {
@@ -51,22 +50,22 @@ public class Cat extends DomesticAnimal {
         this.health = health;
     }
 
-    public int getForce() {
-        return force;
+    public int getResources() {
+        return resources;
     }
 
-    public void setForce(int force) {
-        this.force = force;
+    public void setResources(int resources) {
+        this.resources = resources;
     }
 
     @Override
     public String toString() {
-        return "Cat{" +
+        return "Rabbit{" +
                 "name='" + name + '\'' +
                 ", weight=" + weight +
                 ", speed=" + speed +
                 ", health=" + health +
-                ", force=" + force +
+                ", resources=" + resources +
                 '}';
     }
 }

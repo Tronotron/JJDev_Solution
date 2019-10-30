@@ -1,5 +1,5 @@
-package Units;
+package Farm.Units;
 
-public class Predator extends Animal{
+public class Predator {
 
 }

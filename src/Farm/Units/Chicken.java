@@ -1,22 +1,20 @@
-package Units;
+package Farm.Units;
 
-public class Chiсken extends DomesticAnimal{
-
+public class Chicken extends DomesticAnimal {
     private String name;
     private int weight;
     private int speed;
     private int health;
     private int resources;
 
-    public Chiсken(String name, int weight, int speed, int health, int resources) {
+    public Chicken (String name, int weight, int speed, int health, int resources){
         this.name = name;
-        this.weight = weight;
         this.speed = speed;
         this.health = health;
         this.resources = resources;
     }
 
-    public Chiсken() {
+    public Chicken() {
     }
 
     public String getName() {
@@ -51,17 +49,19 @@ public class Chiсken extends DomesticAnimal{
         this.health = health;
     }
 
+    @Override
     public int getResources() {
         return resources;
     }
 
+    @Override
     public void setResources(int resources) {
         this.resources = resources;
     }
 
     @Override
     public String toString() {
-        return "Chiсken{" +
+        return "Chicken{" +
                 "name='" + name + '\'' +
                 ", weight=" + weight +
                 ", speed=" + speed +

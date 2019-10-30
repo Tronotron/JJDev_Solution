@@ -1,6 +1,6 @@
-package Units;
+package Farm.Units;
 
-public class Farmer {
+public class Farmer extends Farm {
     private String name;
     private int health;
     private int resources;
