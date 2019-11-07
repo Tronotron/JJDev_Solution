@@ -6,7 +6,7 @@ public class Chicken extends DomesticAnimal {
         super.setName("Курица");
         super.setHealth(7);
         super.setSpeed(7);
-        super.setResources(4);
+        super.setResources(70);
         super.setWeight(4);
     }
 }

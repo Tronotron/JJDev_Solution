@@ -7,7 +7,7 @@ public class Goat extends DomesticAnimal {
         super.setName("Коза");
         super.setHealth(9);
         super.setSpeed(5);
-        super.setResources(50);
+        super.setResources(120);
         super.setWeight(50);
     }
 }

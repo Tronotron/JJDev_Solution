@@ -6,7 +6,7 @@ public class Rabbit extends DomesticAnimal {
         super.setName("Кролик");
         super.setHealth(8);
         super.setSpeed(8);
-        super.setResources(5);
+        super.setResources(90);
         super.setWeight(5);
     }
 }

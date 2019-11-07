@@ -1,5 +1,7 @@
 package Farm.Units;
 
+import com.sun.source.tree.WhileLoopTree;
+
 public class Farm {
 
     Farmer farmer;
@@ -41,7 +43,10 @@ public class Farm {
     }
 
     private Animal getRandomAnimal(Animal[] animals) {
-        int random = (int) (Math.random() * animals.length);
+        int random;
+        do {
+            random = (int) (Math.random() * animals.length);
+        } while (animals[random] == null);
         return animals[random];
     }
 
@@ -49,10 +54,13 @@ public class Farm {
         Predator randomPredator = (Predator) getRandomAnimal(predators);
         DomesticAnimal randomDomesticAnimal = (DomesticAnimal) getRandomAnimal(domesticAnimals);
         if(randomPredator.getDrivedAway() < 4) {
+
             if (farmer.driveAwayPredator()) {
                 randomPredator.drivedAway();
             } else {
                 randomPredator.eatDomesticAnimal(randomDomesticAnimal);
+                System.out.println("Съедена " + randomDomesticAnimal.getName());
+                System.out.println("Съел " + randomPredator.getName());
             }
         }
         farmer.spendResources();
@@ -62,6 +70,8 @@ public class Farm {
     }
 
     public void printAll(){
+        System.out.println("Прошёл день" );
 
+        System.out.println("=============");
     }
 }

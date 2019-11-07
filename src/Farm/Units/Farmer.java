@@ -36,7 +36,9 @@ public class Farmer {
 
     public void feedDomesticAnimal(DomesticAnimal[] domesticAnimal) {
         for (DomesticAnimal animal : domesticAnimal) {
-            animal.increaseHealth();
+            if (animal != null) {
+                animal.increaseHealth();
+            }
         }
     }
 
@@ -62,5 +64,14 @@ public class Farmer {
             }
             animals[i].setEated(true);
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Farmer{" +
+                "name='" + name + '\'' +
+                ", resources=" + resources +
+                ", power=" + power +
+                '}';
     }
 }
