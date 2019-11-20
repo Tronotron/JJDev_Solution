@@ -3,7 +3,7 @@ package Farm.Units;
 
 public class Farmer {
     private String name;
-    private int resources = 5;
+    private int resources = 10;
     private int power;
 
     public Farmer(String name) {

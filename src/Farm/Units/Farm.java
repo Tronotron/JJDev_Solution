@@ -6,7 +6,7 @@ public class Farm {
 
     Farmer farmer;
     DomesticAnimal[] domesticAnimals = new DomesticAnimal[5];
-    Predator[] predators = new Predator[15];
+    Predator[] predators = new Predator[10];
 
     public Farm(Farmer farmer, Predator[] predators, DomesticAnimal[] domesticAnimals) {
         setFarmer(farmer);
@@ -67,11 +67,11 @@ public class Farm {
         farmer.gatherResources(domesticAnimals);
         farmer.feedDomesticAnimal(domesticAnimals);
         printAll();
+        //System.out.println("День" + passDay());
     }
 
     public void printAll(){
         System.out.println("Прошёл день" );
-
         System.out.println("=============");
     }
 }
