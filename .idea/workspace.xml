@@ -1,17 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d632d0a-632f-4e78-a1f2-f09d1fa1f2e0" name="Default Changelist" comment="" />
+    <list default="true" id="3d632d0a-632f-4e78-a1f2-f09d1fa1f2e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Bear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Cow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/DomesticAnimal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Farm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Farmer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Fox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Goat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Predator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Rabbit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Farm/Units/Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/META-INF/GitMoHub.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Solution_1/Devider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Solutions_1/ArrSum7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Solutions_1/SystemS16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Solutions_1/SystemS2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Solutions_2/LongestWord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/Solutions_2/TwoWords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/AttackAble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/BattleUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/Doctor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/King.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/Knight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/RestAble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/Unit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GitMoHub/com/domain/lesson6/units/Warrior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Farm/Units/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMap/WarPeace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/AttackAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/BattleUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/RestAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/domain/lesson6/units/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Farm/Units/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Farm/Units/Farm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Farm/Units/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Farm/Units/Farmer.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Sfa3S3tgCC5std47d5cNoDwNAU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -25,6 +83,48 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.WarPeace">
+    <configuration name="ArrSum7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solutions_1.ArrSum7" />
+      <module name="GitMoHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solutions_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Farm.Main" />
+      <module name="GitMoHub" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarPeace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarPeace" />
+      <module name="GitMoHub" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WarPeace" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ArrSum7" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -36,6 +136,63 @@
       <option name="presentableId" value="Default" />
       <updated>1571956904763</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework_1">
+      <created>1571957479547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571957479547</updated>
+    </task>
+    <task id="LOCAL-00002" summary="homeworkFarm_1">
+      <created>1572303297009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572303297009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="homeworkFarm_2">
+      <created>1572434161246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572434161246</updated>
+    </task>
+    <task id="LOCAL-00004" summary="homeworkFarm_3">
+      <created>1573039593540</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573039593540</updated>
+    </task>
+    <task id="LOCAL-00005" summary="homeworkFarm_4">
+      <created>1573163084935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573163084938</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework_1" />
+    <MESSAGE value="homeworkFarm_1" />
+    <MESSAGE value="homeworkFarm_2" />
+    <MESSAGE value="homeworkFarm_3" />
+    <MESSAGE value="homeworkFarm_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="homeworkFarm_4" />
   </component>
 </project>
